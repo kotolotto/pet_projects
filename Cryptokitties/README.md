@@ -1,4 +1,4 @@
-# <div align="center">Predict prices (ETH) in Cryptokitties </div>
+# Predict prices (ETH) in Cryptokitties
 
 ![](https://www.cryptokitties.co/images/kitty-eth.svg)
 
